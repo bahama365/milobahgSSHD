@@ -1,4 +1,4 @@
-# Docker SSHD server
+# Docker SSH/SFTP server
 
 A simple SSH server that can be run using a persistant Docker data volume. The server only allows public-key auth, add your key in the Dockerfile entry and connect using the 'sftpuser'.
 
